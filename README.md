@@ -76,9 +76,6 @@ Watch Video in Full Screen For Better Quality
 
 ---
 ## Screenshots[New]
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<a href="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(70).png?raw=true"> <img width="2000" src="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(70).png?raw=true"> Panel-1</a> | <a href="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(71).png?raw=true"> <img width="2000" src="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(71).png?raw=true"> Panel-2</a> |<a href="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(72).png?raw=trueg"> <img width="2000" src="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(72).png?raw=true"> Panel-3 </a>||
 
 ---
 
@@ -89,14 +86,14 @@ Watch Video in Full Screen For Better Quality
 
 --- 
 ## Disclaimer
-<b>Swagkarna Provides no warranty and will not be responsible for any direct or indirect damage caused by this tool.<br>
+<b>SPY24 Provides no warranty and will not be responsible for any direct or indirect damage caused by this tool.<br>
 Rafel-Rat is built for Educational and Internal use ONLY.</b>
 
 ---
 
 ## Contact :
-<a href=mailto:swagkarna@gmail.com><img src="https://img.shields.io/badge/Gmail-swagkarna-green?style=for-the-badge" /></a>
-<a href=https://twitter.com/swagkarna><img src="https://img.shields.io/badge/Twitter-@swagkarna-blue?style=for-the-badge" /></a>
+<a href=mailto:keleis.andre.1992@gmail.com/></a>
+<a href=https://twitter.com/keleis_andre /></a>
 
 
 ---    
@@ -108,9 +105,7 @@ Rafel-Rat is built for Educational and Internal use ONLY.</b>
 
 ---
 ### ❤️Supporters❤️
-[![Stargazers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/stars/swagkarna/Rafel-Rat)](https://github.com/swagkarna/Rafel-Rat/stargazers)
-[![Forkers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/forks/swagkarna/Rafel-Rat)](https://github.com/swagkarna/Rafel-Rat/network/members)
-
+https://01spy.com/
 ---
                         
                         
